@@ -12,7 +12,7 @@ This is a repository  of my phase 1 project: Aviation Accident Analysis: Identif
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Visualizations](#visualizations)
-- [Future Work](#future-work)
+- [Further research](#future-work)
 - [Contact](#contact)
 
 ## Project Overview
@@ -52,6 +52,22 @@ Through analyzing these datasets, several key findings were uncovered:
 
 To help communicate the findings and recommendations effectively, the following visual resources are available:
 
+- **Pdf Presentation**: This presentation provides a summary of the analysis, key insights, and recommendations. It can be used for stakeholder briefings or educational purposes.  
+  [Download the presentation](https://github.com/ahonokalia/analysis-for-aircraft/blob/main/Aviation-Safety-Aviation-Accident-Analysis-Identifying-Low-Risk-Aircraft-for-Business-Expansion.pdf)
+  
 
+**Tableau Dashboard**: An interactive Tableau dashboard allows users to explore the data and insights in more depth. The dashboard provides a visual representation of incident patterns, risk models, engine performance, and more. \
+ [View the Tableau Dashboard](https://public.tableau.com/app/profile/precious.kalia/viz/projectphase1/VISUALPRESENTATION?publish=yes)
+ ## Future Directions
 
+##Further research could explore the following areas:
+- **Enlarging the dataset** to include more recent incidents and a wider range of geographic locations.
+- **Conducting a deeper analysis of pilot experience** as a factor in incident outcomes.
+- **Creating predictive models** to anticipate high-risk conditions based on weather, aircraft type, and other factors.
 
+## Contact
+
+For inquiries, feedback, or collaboration opportunities, feel free to reach out:
+
+Precious Ahono Kalia.:  
+[precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)
