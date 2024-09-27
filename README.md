@@ -34,9 +34,24 @@ Through analyzing these datasets, several key findings were uncovered:
 
 - **Weather impact**: Incidents that occurred under IMC conditions showed a higher rate of fatalities. This finding underscores the need for improved pilot training and better preparation for flights in challenging weather conditions.
 
-- **Full Results Dataset**: [Access the full results dataset here](https://github.com/ShemDennis/phase_1_project/blob/main/project.ipynb)
+- **Full Results Dataset**: [Access the full results dataset here]((https://github.com/ahonokalia/analysis-for-aircraft/blob/main/project.ipynb.ipynb))
 
 - ## Recommendations
+- Based on the analysis, the following recommendations are provided to improve aircraft safety and fleet management:
+ -**Aircraft Selection:**
+   - Prioritize purchasing aircraft models with lower accident rates and fewer fatalities. Focus on models that have demonstrated better safety records in the analysis.
+
+ -**Pilot Training Programs:**
+   - Implement comprehensive training programs that address the specific risks associated with identified weather conditions and high-risk aircraft types.
+
+ -**Safety Protocols:**
+    
+   - By developing and enforcing strict safety protocols, especially for operations in regions identified as accident hotspots
+
+   - ## Visualizations
+
+To help communicate the findings and recommendations effectively, the following visual resources are available:
+
 
 
 
